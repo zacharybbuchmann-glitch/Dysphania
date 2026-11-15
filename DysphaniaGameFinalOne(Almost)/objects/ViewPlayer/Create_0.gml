@@ -1,0 +1,12 @@
+global.mhp=100;
+global.hp=100;
+global.Ehp=100;
+global.mEhp=100;
+global.DontRuinThis=0;
+global.YouAreSupposedToObeyME=0;
+global.DontRuinThis1=0;
+global.YouAreSupposedToObeyME1=0;
+global.HR=100;
+global.MHR=100;
+global.EH=100;
+global.EMH=100;
